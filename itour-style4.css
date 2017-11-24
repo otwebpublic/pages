@@ -1476,9 +1476,10 @@ ul.tab li a:focus,
 }
 
 .PrefReqLblLP {
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 12px;
+    line-height: 16px;
     padding: 0 10px;
+    colour: #000000
 }
 
 .PrefReqInputLP {
