@@ -1180,9 +1180,10 @@ ul.tab li a:focus,
     display: block;  
     font-size: 72px;                     
     font-weight: 700; 
-     word-spacing: -2px; 
+    word-spacing: -2px; 
     line-height: 110%; 
     word-break: keep-all;
+    padding-top: 10%;
 }
 
 .itour-banner-heading3 {
@@ -1234,7 +1235,7 @@ ul.tab li a:focus,
 }
 
 .buffer2 {
-    padding: 120px 0px 0px 0px;
+    padding: 5% 0px 0px 0px;
 }
 
 .buffer3 {
