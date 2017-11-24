@@ -911,10 +911,20 @@ input[type=radio]:checked + label {
 
 
 label.register-first {
-    padding-top: 10px
+    line-height: 100%;
+    float: left;
+    width: 100%;
+    margin: 0px 10px 0px 0px;
+    text-align: left;
+    white-space: nowrap;
+    display: block;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #111B58;
+    padding: 10px 0 0px 2px;
 
 }
-
 
 label.register {
     line-height: 100%;
