@@ -909,6 +909,13 @@ input[type=radio]:checked + label {
     color: rgba(85, 85, 85, 0.5) !important;
 }
 
+
+label.register-first {
+    padding-top: 10px
+
+}
+
+
 label.register {
     line-height: 100%;
     float: left;
@@ -921,7 +928,7 @@ label.register {
     font-size: 12px;
     font-weight: bold;
     color: #111B58;
-    padding: 10px 0 0px 0;
+    padding: 5px 0 0px 2px;
 
 }
 
