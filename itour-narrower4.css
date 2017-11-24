@@ -640,7 +640,7 @@ input[type=radio]:checked + label {
     color: rgba(85, 85, 85, 0.5) !important;
 }
 
-label.register {
+label.register, label.register-first {
     line-height: 120%;
     width: 100%;
     margin: 0;
@@ -652,7 +652,7 @@ label.register {
     font-weight: bold;
 }
 
-input.register {
+input.register, input.register-first{
     text-align: center
 }
 
