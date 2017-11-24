@@ -4,7 +4,7 @@
 		reset: 'full',
 		breakpoints: 	{
 				global:		{ 	range: '*',
-				    href: 'http://snippetcode.info/opentext/css/itour-style4.css', 
+				    href: 'https://otwebpublic.github.io/pages/itour-style4.css', 
 								containers: 1000, 
 								grid: { gutters: 50 } 
 							},
