@@ -20,7 +20,7 @@
 								},
 								
 				narrower:	{ 	range: '-768',
-				    href: 'http://snippetcode.info/opentext/css/itour-narrower4.css', 
+				    href: 'https://otwebpublic.github.io/pages/itour-narrower4.css', 
 								grid: { collapse: true }
 								},
 				
