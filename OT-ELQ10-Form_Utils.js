@@ -245,8 +245,8 @@ updated to only insert scripts for Eloqua hosted subdomains (WEM has its own GA 
 		
 		//show opt-in when CA,DE,ES,AU,NZ and not already flagged explicitly subscribed
 		if(PrefRequest){
-		  if (!isExpSubscribed && (curCountry==="CA" || curCountry==="DE" || curCountry==="ES" || curCountry==="AU" || curCountry==="NZ")) jQuery(PrefRequest).show();
-		  else if(curCountry!=="CA" && curCountry!=="DE" && curCountry!=="ES" && curCountry!=="AU" && curCountry!=="NZ"){
+		  if (!isExpSubscribed && (curCountry==="CA" || curCountry==="DE" || curCountry==="ES" || curCountry==="AU" || curCountry==="NZ" || curCountry==="GB")) jQuery(PrefRequest).show();
+		  else if(curCountry!=="CA" && curCountry!=="DE" && curCountry!=="ES" && curCountry!=="AU" && curCountry!=="NZ" && curCountry!=="GB"){
 			jQuery("#PreferenceRequest-FORMS").removeAttr("checked");
 			jQuery(PrefRequest).hide();
 		  }
