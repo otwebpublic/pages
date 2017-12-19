@@ -1114,6 +1114,16 @@ ul.tab li a:focus,
 
 /*Itour Banner*/
 
+#banner-heroimage1 {
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 80vh;
+    width: 100%;
+    top: 0px;
+    left: 0;
+}
+
 #itour-banner-heroimage1 {
     background-image: url(http://www.opentext.com/file_source/OpenText/img/Magellan-hero-image.jpg) !important;
     background-size: cover;
